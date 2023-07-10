@@ -1,1 +1,1 @@
-# Intel-AI-Global-Impact-Festival-2023
+# Intel AI Global Impact Festival 2023
