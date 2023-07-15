@@ -2,7 +2,7 @@ import streamlit as st
 import tensorflow as tf
 from PIL import Image
 # Load the Keras model
-model = tf.keras.models.load_model('resNet Model 2.h5')
+model = tf.keras.models.load_model('resNet_Model_2.h5')
 
 # Define the labels for the object classes
 labels = ['TUMOR', 'NORMAL']
